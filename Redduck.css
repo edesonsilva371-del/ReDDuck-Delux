@@ -4,10 +4,10 @@
 |Por id|
 |Por descendência|-->
 <!--Box Model
-| margin |
-| border |
-| padding |
-| content |-->
+| margin | espaço externo
+| border | borda ao redor da caixa
+| padding | espaço interno
+| content | o conteúdo em si -->
 <!--Display
 |display block| O elemento ocupa a linha inteira e Começa em uma linha nova
 |display inline| Fica na mesma linha e Não aceita largura/altura
@@ -134,3 +134,4 @@ footer .redes a:hover {
     text-decoration: underline;
 
 }
+
