@@ -1,4 +1,17 @@
-/* RESET */
+<!--Principais Seletores
+|Por tag|
+|Por classe|
+|Por id|
+|Por descendência|-->
+<!--Box Model
+| margin |
+| border |
+| padding |
+| content |-->
+<!--Display
+|display block| O elemento ocupa a linha inteira e Começa em uma linha nova
+|display inline| Fica na mesma linha e Não aceita largura/altura
+-->
 * {
     margin: 0;
     padding: 0;
@@ -119,4 +132,5 @@ footer .redes a {
 footer .redes a:hover {
     color: white;
     text-decoration: underline;
+
 }
